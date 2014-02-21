@@ -8,6 +8,17 @@ Whoever is reading this @ this point in time.
 
 Help make this document better and make the code better.
 
+Workers
+Spit Scenes to the workers
+
+Channels
+Create a channel 
+Scenes
+Add a Scene to a Channel
+
+
+
+
 
 
 
